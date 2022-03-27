@@ -5,6 +5,9 @@
 	"Amber": {
 		"location": "/Avatars/Amber"
 	},
+	"Arita": {
+		"location": "/Avatars/Amrita"
+	},
 	"BlackDress": {
 		"location": "/Avatars/BlackDress"
 	},
@@ -14,11 +17,26 @@
 	"ButchBunny": {
 		"location": "/Avatars/ButchBunny"
 	},
+	"Cedric": {
+		"location": "/Avatars/Cedric"
+	},
+	"Cedric_Shorts": {
+		"location": "/Avatars/Cedric_Shorts"
+	},
+	"Emily": {
+		"location": "/Avatars/Emily"
+	},
 	"Femmebunny": {
 		"location": "/Avatars/Femmebunny"
 	},
 	"FormalMan": {
 		"location": "/Avatars/FormalMan"
+	},
+	"James": {
+		"location": "/Avatars/James"
+	},
+	"Julia": {
+		"location": "/Avatars/Julia"
 	},
 	"Kim": {
 		"location": "/Avatars/Kim"
@@ -29,8 +47,23 @@
 	"Mike": {
 		"location": "/Avatars/Mike"
 	},
+	"Mohan": {
+		"location": "/Avatars/Mohan"
+	},
+	"Mohan-Mohawk": {
+		"location": "/Avatars/Mohan-Mohawk"
+	},
 	"PinkDress": {
 		"location": "/Avatars/PinkDress"
+	},
+	"Radhika": {
+		"location": "/Avatars/Radhika"
+	},
+	"Rajesh": {
+		"location": "/Avatars/Rajesh"
+	},
+	"Rami": {
+		"location": "/Avatars/Rami"
 	},
 	"Randy": {
 		"location": "/Avatars/Randy"
@@ -47,10 +80,19 @@
 	"Tanya": {
 		"location": "/Avatars/Tanya"
 	},
+	"Thad": {
+		"location": "/Avatars/Thad"
+	},
+	"Tola": {
+		"location": "/Avatars/Tola"
+	},
 	"Tom": {
 		"location": "/Avatars/Tom"
 	},
+	"Wendy": {
+		"location": "/Avatars/Wendy"
+	},
     "Woody": {
-		"location": "/Avatars/Woody"
+		"location": "/Avatars/woody"
 	}
 }
